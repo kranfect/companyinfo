@@ -61,7 +61,7 @@ nav .links a {
 	padding: 1em;
 	font-size: 16px;
 	font-weight: bold;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 }
 
@@ -117,6 +117,7 @@ nav .icon-burger .line {
 	}
 	nav .links a {
 		font-size: 20px;
+		color: #fff;
 	}
 	nav :checked ~ .links {
 		bottom: 0;
